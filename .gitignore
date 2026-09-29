@@ -1,0 +1,8 @@
+*.log
+docs/User_Manual/
+*-*.txt
+styles.css
+*SRS*
+*SDD*
+*/README*
+.DS_Store
